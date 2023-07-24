@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Quiz_Assignment</string>
+    <string name="action_getAverage">Get The Average</string>
+    <string name="action_select_question">Select the number of Question</string>
+    <string name="action_reset_result">Reset the saved Result</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="txt_true">True</string>
+    <string name="txt_false">False</string>
+    <string name="question1">Virat Kohli is the captain of Indian cricket Team</string>
+    <string name="question2">Ronaldo currently plays for Real Madrid</string>
+    <string name="question3">Messi currently plays for Inter Miami</string>
+    <string name="question4">India Lost the World Test Championship</string>
+    <string name="question5">Justin Trudeau is the prime minister of US</string>
+    <string name="question6">Ottawa is a capital of Ontario</string>
+    <string name="question7">CN tower is in Toronto</string>
+    <string name="question8">Burj Khalifa is in Dubai</string>
+
+
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="txt_question">Virat Kohli is the captain of Indian cricket Team</string>
+    <string name="add_question">Enter the number of question less than</string>
+    <string name="action_select_language">Select Language</string>
+    <string name="message_average">Your Correct Answers / Total number of Questions=</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="english">English</string>
+    <string name="gujarati">Gujarati</string>
+    <string name="invalidNumber">Invalid input. Please enter a valid number.</string>
+    <string name="result">Result</string>
+    <string name="your_result">Your Result is : </string>
+    <string name="out_of">Out Of </string>
+    <string name="save">SAVE</string>
+    <string name="ignore">IGNORE</string>
+    <string name="enter_question">Enter Question less than 8</string>
+    <string name="Gujarati" />
+</resources>

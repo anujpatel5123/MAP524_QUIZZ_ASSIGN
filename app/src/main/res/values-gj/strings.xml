@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="app_name">ક્વિઝ સોંપણી</string>
+    <string name="action_getAverage">સરેરાશ મેળવો</string>
+    <string name="action_select_question">પ્રશ્ન નંબર પસંદ કરો</string>
+    <string name="action_reset_result">સાચવેલ પરિણામ રીસેટ કરો</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">આગળ</string>
+    <string name="txt_true">સાચું</string>
+    <string name="txt_false">ખોટું</string>
+    <string name="question1">વિરાટ કોહલી ભારતીય ક્રિકેટ ટીમનો કેપ્ટન છે۔</string>
+    <string name="question2">રોનાલ્ડો હાલમાં રિયલ મેડ્રિડ તરફથી રમે છે۔</string>
+    <string name="question3">મેસ્સી હાલમાં ઇન્ટર મિયામી માટે રમે છે۔</string>
+    <string name="question4">ભારત વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપ હારી ગયું</string>
+    <string name="question5">જસ્ટિન ટ્રુડો યુએસના વડા પ્રધાન છે</string>
+    <string name="question6">ઓટ્ટાવા ઓન્ટારિયોની રાજધાની છે</string>
+    <string name="question7">CN ટાવર ટોરોન્ટોમાં છે</string>
+    <string name="question8">બુર્જ ખલીફા દુબઈમાં છે</string>
+
+    <string name="message_average">તમારા સાચા જવાબો / પ્રશ્નોની કુલ સંખ્યા= </string>
+    <string name="english">અંગ્રેજી</string>
+    <string name="gujarati">ગુજરાતી</string>
+    <string name="invalidNumber">ખોટું ઇનપુટ. કૃપા કરીને માન્ય નંબર દાખલ કરો.</string>
+    <string name="result">પરિણામ</string>
+    <string name="your_result">તમારું પરિણામ છે:</string>
+    <string name="out_of">બહાર</string>
+    <string name="save">સાચવો</string>
+    <string name="ignore">અવગણો</string>
+    <string name="enter_question">8 કરતા ઓછો પ્રશ્ન દાખલ કરો</string>
+
+    <string name="previous">અગાઉના</string>
+    <string name="ok">બરાબર</string>
+    <string name="cancel">રદ કરો</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="txt_question">Toronto is the Capital city of Ontario.</string>
+    <string name="add_question">કરતાં ઓછી પ્રશ્નની સંખ્યા દાખલ કરો</string>
+    <string name="action_select_language">ભાષા પસંદ કરો</string>
+</resources>
